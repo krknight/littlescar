@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="state_button_dark">#FF009688</color>
+    <color name="state_button_dark_alpha">#88009688</color>
+    <color name="state_button_light">#FF80CBC4</color>
+    <color name="state_button_light_alpha">#8880CBC4</color>
+    <style name="activityTheme" parent="@android:style/Theme.Material">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:windowBackground">@color/main_background</item>
+        <item name="android:cacheColorHint">@color/main_background</item>
+    </style>
+    <style name="clickfeedbackSpinner">
+        <item name="android:entries">@array/wc_click_colors_l</item>
+    </style>
+    <style name="configTheme" parent="@android:style/Theme.Material.Wallpaper">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:actionBarStyle">@android:style/Widget.Material.ActionBar.Solid</item>
+        <item name="android:windowAnimationStyle">@style/SlideAnimation</item>
+    </style>
+    <style name="flashTheme" parent="@android:style/Theme.Material.NoActionBar.TranslucentDecor"/>
+    <style name="folderGrid">
+        <item name="android:listSelector">@drawable/bg_folder_item</item>
+    </style>
+    <style name="widgetPickerCard">
+        <item name="android:padding">1dp</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:elevation">6dp</item>
+    </style>
+</resources>

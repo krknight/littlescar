@@ -1,0 +1,4926 @@
+[
+    {
+        "outputFile": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\values-cs\\values-cs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 15,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 439,
+                        "startColumn": 0,
+                        "startOffset": 20613,
+                        "endLine": 447,
+                        "endColumn": 15,
+                        "endOffset": 20866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endLine": 15,
+                    "endColumn": 15,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 393,
+                        "startColumn": 0,
+                        "startOffset": 19163,
+                        "endLine": 397,
+                        "endColumn": 15,
+                        "endOffset": 19354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endLine": 19,
+                    "endColumn": 15,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 389,
+                        "startColumn": 0,
+                        "startOffset": 19027,
+                        "endLine": 392,
+                        "endColumn": 15,
+                        "endOffset": 19161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endLine": 24,
+                    "endColumn": 15,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 384,
+                        "startColumn": 0,
+                        "startOffset": 18845,
+                        "endLine": 388,
+                        "endColumn": 15,
+                        "endOffset": 19025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endLine": 28,
+                    "endColumn": 15,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 380,
+                        "startColumn": 0,
+                        "startOffset": 18717,
+                        "endLine": 383,
+                        "endColumn": 15,
+                        "endOffset": 18843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endLine": 44,
+                    "endColumn": 15,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 403,
+                        "startColumn": 0,
+                        "startOffset": 19567,
+                        "endLine": 418,
+                        "endColumn": 15,
+                        "endOffset": 20030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endLine": 49,
+                    "endColumn": 15,
+                    "endOffset": 1600
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 398,
+                        "startColumn": 0,
+                        "startOffset": 19356,
+                        "endLine": 402,
+                        "endColumn": 15,
+                        "endOffset": 19565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1605,
+                    "endLine": 54,
+                    "endColumn": 15,
+                    "endOffset": 1731
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 448,
+                        "startColumn": 0,
+                        "startOffset": 20868,
+                        "endLine": 452,
+                        "endColumn": 15,
+                        "endOffset": 20998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1736,
+                    "endLine": 59,
+                    "endColumn": 15,
+                    "endOffset": 1869
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 453,
+                        "startColumn": 0,
+                        "startOffset": 21000,
+                        "endLine": 457,
+                        "endColumn": 15,
+                        "endOffset": 21137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1874,
+                    "endLine": 69,
+                    "endColumn": 15,
+                    "endOffset": 2121
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 0,
+                        "startOffset": 16671,
+                        "endLine": 299,
+                        "endColumn": 15,
+                        "endOffset": 16927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2126,
+                    "endLine": 119,
+                    "endColumn": 15,
+                    "endOffset": 3761
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 0,
+                        "startOffset": 14985,
+                        "endLine": 289,
+                        "endColumn": 15,
+                        "endOffset": 16669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3766,
+                    "endLine": 169,
+                    "endColumn": 15,
+                    "endOffset": 4557
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 0,
+                        "startOffset": 16929,
+                        "endLine": 349,
+                        "endColumn": 15,
+                        "endOffset": 17961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 4562,
+                    "endLine": 188,
+                    "endColumn": 15,
+                    "endOffset": 4983
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 0,
+                        "startOffset": 17963,
+                        "endLine": 368,
+                        "endColumn": 15,
+                        "endOffset": 18402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 4988,
+                    "endLine": 194,
+                    "endColumn": 15,
+                    "endOffset": 5125
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 433,
+                        "startColumn": 0,
+                        "startOffset": 20469,
+                        "endLine": 438,
+                        "endColumn": 15,
+                        "endOffset": 20611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 5130,
+                    "endLine": 200,
+                    "endColumn": 15,
+                    "endOffset": 5289
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 427,
+                        "startColumn": 0,
+                        "startOffset": 20303,
+                        "endLine": 432,
+                        "endColumn": 15,
+                        "endOffset": 20467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 5294,
+                    "endLine": 208,
+                    "endColumn": 15,
+                    "endOffset": 5556
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 419,
+                        "startColumn": 0,
+                        "startOffset": 20032,
+                        "endLine": 426,
+                        "endColumn": 15,
+                        "endOffset": 20301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 5561,
+                    "endLine": 213,
+                    "endColumn": 15,
+                    "endOffset": 5700
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 369,
+                        "startColumn": 0,
+                        "startOffset": 18404,
+                        "endLine": 373,
+                        "endColumn": 15,
+                        "endOffset": 18547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 5705,
+                    "endLine": 219,
+                    "endColumn": 15,
+                    "endOffset": 5866
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 374,
+                        "startColumn": 0,
+                        "startOffset": 18549,
+                        "endLine": 379,
+                        "endColumn": 15,
+                        "endOffset": 18715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 5871,
+                    "endColumn": 42,
+                    "endOffset": 5909
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 91,
+                        "endColumn": 38,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 5914,
+                    "endColumn": 45,
+                    "endOffset": 5955
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 166,
+                        "endColumn": 41,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 5960,
+                    "endColumn": 45,
+                    "endOffset": 6001
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 209,
+                        "endColumn": 41,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 6006,
+                    "endColumn": 43,
+                    "endOffset": 6045
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 0,
+                        "startOffset": 13,
+                        "endColumn": 39,
+                        "endOffset": 52
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 6050,
+                    "endColumn": 37,
+                    "endOffset": 6083
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 131,
+                        "endColumn": 33,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 6088,
+                    "endColumn": 46,
+                    "endOffset": 6130
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 252,
+                        "endColumn": 42,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 6135,
+                    "endColumn": 50,
+                    "endOffset": 6181
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 296,
+                        "endColumn": 46,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 6186,
+                    "endColumn": 39,
+                    "endOffset": 6221
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 54,
+                        "endColumn": 35,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 6226,
+                    "endColumn": 73,
+                    "endOffset": 6295
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1140,
+                        "endColumn": 69,
+                        "endOffset": 1209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 6300,
+                    "endColumn": 122,
+                    "endOffset": 6418
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 966,
+                        "endColumn": 118,
+                        "endOffset": 1084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 6423,
+                    "endColumn": 56,
+                    "endOffset": 6475
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 1086,
+                        "endColumn": 52,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 6480,
+                    "endColumn": 59,
+                    "endOffset": 6535
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 0,
+                        "startOffset": 10569,
+                        "endColumn": 55,
+                        "endOffset": 10624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 6540,
+                    "endColumn": 51,
+                    "endOffset": 6587
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 0,
+                        "startOffset": 10766,
+                        "endColumn": 47,
+                        "endOffset": 10813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 6592,
+                    "endColumn": 55,
+                    "endOffset": 6643
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 0,
+                        "startOffset": 10409,
+                        "endColumn": 51,
+                        "endOffset": 10460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 6648,
+                    "endColumn": 52,
+                    "endOffset": 6696
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 0,
+                        "startOffset": 10462,
+                        "endColumn": 48,
+                        "endOffset": 10510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 6701,
+                    "endColumn": 80,
+                    "endOffset": 6777
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 0,
+                        "startOffset": 10626,
+                        "endColumn": 76,
+                        "endOffset": 10702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 6782,
+                    "endColumn": 59,
+                    "endOffset": 6837
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 0,
+                        "startOffset": 10512,
+                        "endColumn": 55,
+                        "endOffset": 10567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 6842,
+                    "endColumn": 64,
+                    "endOffset": 6902
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 0,
+                        "startOffset": 10704,
+                        "endColumn": 60,
+                        "endOffset": 10764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 6907,
+                    "endColumn": 56,
+                    "endOffset": 6959
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 0,
+                        "startOffset": 5965,
+                        "endColumn": 52,
+                        "endOffset": 6017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 6964,
+                    "endColumn": 59,
+                    "endOffset": 7019
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 0,
+                        "startOffset": 6019,
+                        "endColumn": 55,
+                        "endOffset": 6074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 7024,
+                    "endColumn": 65,
+                    "endOffset": 7085
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 0,
+                        "startOffset": 6139,
+                        "endColumn": 61,
+                        "endOffset": 6200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 7090,
+                    "endColumn": 65,
+                    "endOffset": 7151
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 0,
+                        "startOffset": 6076,
+                        "endColumn": 61,
+                        "endOffset": 6137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 7156,
+                    "endColumn": 46,
+                    "endOffset": 7198
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 0,
+                        "startOffset": 5921,
+                        "endColumn": 42,
+                        "endOffset": 5963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 7203,
+                    "endColumn": 50,
+                    "endOffset": 7249
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 0,
+                        "startOffset": 11698,
+                        "endColumn": 46,
+                        "endOffset": 11744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 7254,
+                    "endColumn": 188,
+                    "endOffset": 7438
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 0,
+                        "startOffset": 12059,
+                        "endColumn": 184,
+                        "endOffset": 12243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 7443,
+                    "endColumn": 48,
+                    "endOffset": 7487
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 0,
+                        "startOffset": 12013,
+                        "endColumn": 44,
+                        "endOffset": 12057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 7492,
+                    "endColumn": 58,
+                    "endOffset": 7546
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 0,
+                        "startOffset": 12245,
+                        "endColumn": 54,
+                        "endOffset": 12299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 7551,
+                    "endColumn": 47,
+                    "endOffset": 7594
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 0,
+                        "startOffset": 11602,
+                        "endColumn": 43,
+                        "endOffset": 11645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 7599,
+                    "endColumn": 68,
+                    "endOffset": 7663
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 0,
+                        "startOffset": 11883,
+                        "endColumn": 64,
+                        "endOffset": 11947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 7668,
+                    "endColumn": 66,
+                    "endOffset": 7730
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 0,
+                        "startOffset": 11949,
+                        "endColumn": 62,
+                        "endOffset": 12011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 7735,
+                    "endColumn": 53,
+                    "endOffset": 7784
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 0,
+                        "startOffset": 11647,
+                        "endColumn": 49,
+                        "endOffset": 11696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 7789,
+                    "endColumn": 50,
+                    "endOffset": 7835
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 0,
+                        "startOffset": 11554,
+                        "endColumn": 46,
+                        "endOffset": 11600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 7840,
+                    "endColumn": 72,
+                    "endOffset": 7908
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 0,
+                        "startOffset": 11746,
+                        "endColumn": 68,
+                        "endOffset": 11814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 7913,
+                    "endColumn": 69,
+                    "endOffset": 7978
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 0,
+                        "startOffset": 11816,
+                        "endColumn": 65,
+                        "endOffset": 11881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 7983,
+                    "endColumn": 48,
+                    "endOffset": 8027
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 0,
+                        "startOffset": 3967,
+                        "endColumn": 44,
+                        "endOffset": 4011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 8032,
+                    "endColumn": 54,
+                    "endOffset": 8082
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 0,
+                        "startOffset": 4013,
+                        "endColumn": 50,
+                        "endOffset": 4063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 8087,
+                    "endColumn": 55,
+                    "endOffset": 8138
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 0,
+                        "startOffset": 4065,
+                        "endColumn": 51,
+                        "endOffset": 4116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 8143,
+                    "endColumn": 67,
+                    "endOffset": 8206
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 0,
+                        "startOffset": 6356,
+                        "endColumn": 63,
+                        "endOffset": 6419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 8211,
+                    "endColumn": 77,
+                    "endOffset": 8284
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 0,
+                        "startOffset": 6421,
+                        "endColumn": 73,
+                        "endOffset": 6494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 8289,
+                    "endColumn": 67,
+                    "endOffset": 8352
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 0,
+                        "startOffset": 6202,
+                        "endColumn": 63,
+                        "endOffset": 6265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 8357,
+                    "endColumn": 91,
+                    "endOffset": 8444
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 0,
+                        "startOffset": 6267,
+                        "endColumn": 87,
+                        "endOffset": 6354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 8449,
+                    "endColumn": 68,
+                    "endOffset": 8513
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 0,
+                        "startOffset": 6496,
+                        "endColumn": 64,
+                        "endOffset": 6560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 8518,
+                    "endColumn": 69,
+                    "endOffset": 8583
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 0,
+                        "startOffset": 6562,
+                        "endColumn": 65,
+                        "endOffset": 6627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 8588,
+                    "endColumn": 53,
+                    "endOffset": 8637
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 0,
+                        "startOffset": 6629,
+                        "endColumn": 49,
+                        "endOffset": 6678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 8642,
+                    "endColumn": 72,
+                    "endOffset": 8710
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 0,
+                        "startOffset": 13370,
+                        "endColumn": 68,
+                        "endOffset": 13438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 8715,
+                    "endColumn": 76,
+                    "endOffset": 8787
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 0,
+                        "startOffset": 13151,
+                        "endColumn": 72,
+                        "endOffset": 13223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 8792,
+                    "endColumn": 67,
+                    "endOffset": 8855
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 0,
+                        "startOffset": 13508,
+                        "endColumn": 63,
+                        "endOffset": 13571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 8860,
+                    "endColumn": 68,
+                    "endOffset": 8924
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 680,
+                        "endColumn": 64,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 8929,
+                    "endColumn": 64,
+                    "endOffset": 8989
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 746,
+                        "endColumn": 60,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 8994,
+                    "endColumn": 66,
+                    "endOffset": 9056
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 0,
+                        "startOffset": 13225,
+                        "endColumn": 62,
+                        "endOffset": 13287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 9061,
+                    "endColumn": 68,
+                    "endOffset": 9125
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 0,
+                        "startOffset": 14308,
+                        "endColumn": 64,
+                        "endOffset": 14372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 9130,
+                    "endColumn": 53,
+                    "endOffset": 9179
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 0,
+                        "startOffset": 14202,
+                        "endColumn": 49,
+                        "endOffset": 14251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 9184,
+                    "endColumn": 173,
+                    "endOffset": 9353
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 0,
+                        "startOffset": 14521,
+                        "endColumn": 169,
+                        "endOffset": 14690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 9358,
+                    "endColumn": 51,
+                    "endOffset": 9405
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 0,
+                        "startOffset": 14112,
+                        "endColumn": 47,
+                        "endOffset": 14159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 9410,
+                    "endColumn": 43,
+                    "endOffset": 9449
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 0,
+                        "startOffset": 14161,
+                        "endColumn": 39,
+                        "endOffset": 14200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 9454,
+                    "endColumn": 84,
+                    "endOffset": 9534
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 0,
+                        "startOffset": 14439,
+                        "endColumn": 80,
+                        "endOffset": 14519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 9539,
+                    "endColumn": 67,
+                    "endOffset": 9602
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 0,
+                        "startOffset": 14374,
+                        "endColumn": 63,
+                        "endOffset": 14437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 9607,
+                    "endColumn": 57,
+                    "endOffset": 9660
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 0,
+                        "startOffset": 14253,
+                        "endColumn": 53,
+                        "endOffset": 14306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 9665,
+                    "endColumn": 49,
+                    "endOffset": 9710
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 0,
+                        "startOffset": 8419,
+                        "endColumn": 45,
+                        "endOffset": 8464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 9715,
+                    "endColumn": 61,
+                    "endOffset": 9772
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 0,
+                        "startOffset": 8557,
+                        "endColumn": 57,
+                        "endOffset": 8614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 9777,
+                    "endColumn": 49,
+                    "endOffset": 9822
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 0,
+                        "startOffset": 8510,
+                        "endColumn": 45,
+                        "endOffset": 8555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 9827,
+                    "endColumn": 46,
+                    "endOffset": 9869
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 0,
+                        "startOffset": 8466,
+                        "endColumn": 42,
+                        "endOffset": 8508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 9874,
+                    "endColumn": 69,
+                    "endOffset": 9939
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 0,
+                        "startOffset": 13573,
+                        "endColumn": 65,
+                        "endOffset": 13638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 9944,
+                    "endColumn": 55,
+                    "endOffset": 9995
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 0,
+                        "startOffset": 4855,
+                        "endColumn": 51,
+                        "endOffset": 4906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 10000,
+                    "endColumn": 51,
+                    "endOffset": 10047
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 0,
+                        "startOffset": 4908,
+                        "endColumn": 47,
+                        "endOffset": 4955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 10052,
+                    "endColumn": 50,
+                    "endOffset": 10098
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 0,
+                        "startOffset": 5076,
+                        "endColumn": 46,
+                        "endOffset": 5122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 10103,
+                    "endColumn": 67,
+                    "endOffset": 10166
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 0,
+                        "startOffset": 5011,
+                        "endColumn": 63,
+                        "endOffset": 5074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 10171,
+                    "endColumn": 56,
+                    "endOffset": 10223
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 0,
+                        "startOffset": 4957,
+                        "endColumn": 52,
+                        "endOffset": 5009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 10228,
+                    "endColumn": 59,
+                    "endOffset": 10283
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 0,
+                        "startOffset": 5124,
+                        "endColumn": 55,
+                        "endOffset": 5179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 10288,
+                    "endColumn": 70,
+                    "endOffset": 10354
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 0,
+                        "startOffset": 5181,
+                        "endColumn": 66,
+                        "endOffset": 5247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 10359,
+                    "endColumn": 49,
+                    "endOffset": 10404
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 0,
+                        "startOffset": 4808,
+                        "endColumn": 45,
+                        "endOffset": 4853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 10409,
+                    "endColumn": 46,
+                    "endOffset": 10451
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 0,
+                        "startOffset": 5293,
+                        "endColumn": 42,
+                        "endOffset": 5335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 10456,
+                    "endColumn": 67,
+                    "endOffset": 10519
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 0,
+                        "startOffset": 5399,
+                        "endColumn": 63,
+                        "endOffset": 5462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 10524,
+                    "endColumn": 64,
+                    "endOffset": 10584
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 0,
+                        "startOffset": 5337,
+                        "endColumn": 60,
+                        "endOffset": 5397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 10589,
+                    "endColumn": 46,
+                    "endOffset": 10631
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 0,
+                        "startOffset": 5249,
+                        "endColumn": 42,
+                        "endOffset": 5291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 10636,
+                    "endColumn": 46,
+                    "endOffset": 10678
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 385,
+                        "endColumn": 42,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 10683,
+                    "endColumn": 43,
+                    "endOffset": 10722
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 344,
+                        "endColumn": 39,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 10727,
+                    "endColumn": 53,
+                    "endOffset": 10776
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 560,
+                        "endColumn": 49,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 10781,
+                    "endColumn": 47,
+                    "endOffset": 10824
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 472,
+                        "endColumn": 43,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 10829,
+                    "endColumn": 46,
+                    "endOffset": 10871
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 0,
+                        "startOffset": 13856,
+                        "endColumn": 42,
+                        "endOffset": 13898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 10876,
+                    "endColumn": 61,
+                    "endOffset": 10933
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 0,
+                        "startOffset": 13737,
+                        "endColumn": 57,
+                        "endOffset": 13794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 10938,
+                    "endColumn": 45,
+                    "endOffset": 10979
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 517,
+                        "endColumn": 41,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 10984,
+                    "endColumn": 62,
+                    "endOffset": 11042
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 0,
+                        "startOffset": 13796,
+                        "endColumn": 58,
+                        "endOffset": 13854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 11047,
+                    "endColumn": 48,
+                    "endOffset": 11091
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 0,
+                        "startOffset": 13900,
+                        "endColumn": 44,
+                        "endOffset": 13944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 11096,
+                    "endColumn": 62,
+                    "endOffset": 11154
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 0,
+                        "startOffset": 14052,
+                        "endColumn": 58,
+                        "endOffset": 14110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 11159,
+                    "endColumn": 50,
+                    "endOffset": 11205
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 0,
+                        "startOffset": 13946,
+                        "endColumn": 46,
+                        "endOffset": 13992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 11210,
+                    "endColumn": 45,
+                    "endOffset": 11251
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 429,
+                        "endColumn": 41,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 11256,
+                    "endColumn": 60,
+                    "endOffset": 11312
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 0,
+                        "startOffset": 13994,
+                        "endColumn": 56,
+                        "endOffset": 14050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 11317,
+                    "endColumn": 54,
+                    "endOffset": 11367
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 0,
+                        "startOffset": 13640,
+                        "endColumn": 50,
+                        "endOffset": 13690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 11372,
+                    "endColumn": 47,
+                    "endOffset": 11415
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 0,
+                        "startOffset": 13692,
+                        "endColumn": 43,
+                        "endOffset": 13735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 11420,
+                    "endColumn": 80,
+                    "endOffset": 11496
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 808,
+                        "endColumn": 76,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 11501,
+                    "endColumn": 82,
+                    "endOffset": 11579
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 886,
+                        "endColumn": 78,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 11584,
+                    "endColumn": 71,
+                    "endOffset": 11651
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 611,
+                        "endColumn": 67,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 11656,
+                    "endColumn": 74,
+                    "endOffset": 11726
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 0,
+                        "startOffset": 13079,
+                        "endColumn": 70,
+                        "endOffset": 13149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 11731,
+                    "endColumn": 81,
+                    "endOffset": 11808
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 0,
+                        "startOffset": 6791,
+                        "endColumn": 77,
+                        "endOffset": 6868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 11813,
+                    "endColumn": 106,
+                    "endOffset": 11915
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 0,
+                        "startOffset": 6870,
+                        "endColumn": 102,
+                        "endOffset": 6972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 11920,
+                    "endColumn": 70,
+                    "endOffset": 11986
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 0,
+                        "startOffset": 7160,
+                        "endColumn": 66,
+                        "endOffset": 7226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 11991,
+                    "endColumn": 45,
+                    "endOffset": 12032
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 0,
+                        "startOffset": 7291,
+                        "endColumn": 41,
+                        "endOffset": 7332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 12037,
+                    "endColumn": 63,
+                    "endOffset": 12096
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 0,
+                        "startOffset": 7450,
+                        "endColumn": 59,
+                        "endOffset": 7509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 12101,
+                    "endColumn": 59,
+                    "endOffset": 12156
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 0,
+                        "startOffset": 7393,
+                        "endColumn": 55,
+                        "endOffset": 7448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 12161,
+                    "endColumn": 61,
+                    "endOffset": 12218
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 0,
+                        "startOffset": 7334,
+                        "endColumn": 57,
+                        "endOffset": 7391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 12223,
+                    "endColumn": 65,
+                    "endOffset": 12284
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 0,
+                        "startOffset": 7228,
+                        "endColumn": 61,
+                        "endOffset": 7289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 12289,
+                    "endColumn": 50,
+                    "endOffset": 12335
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 0,
+                        "startOffset": 6680,
+                        "endColumn": 46,
+                        "endOffset": 6726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 12340,
+                    "endColumn": 65,
+                    "endOffset": 12401
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 0,
+                        "startOffset": 6728,
+                        "endColumn": 61,
+                        "endOffset": 6789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 12406,
+                    "endColumn": 61,
+                    "endOffset": 12463
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 0,
+                        "startOffset": 7101,
+                        "endColumn": 57,
+                        "endOffset": 7158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 12468,
+                    "endColumn": 57,
+                    "endOffset": 12521
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 0,
+                        "startOffset": 6974,
+                        "endColumn": 53,
+                        "endOffset": 7027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 12526,
+                    "endColumn": 74,
+                    "endOffset": 12596
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 0,
+                        "startOffset": 7029,
+                        "endColumn": 70,
+                        "endOffset": 7099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 12601,
+                    "endColumn": 48,
+                    "endOffset": 12645
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 0,
+                        "startOffset": 5664,
+                        "endColumn": 44,
+                        "endOffset": 5708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 12650,
+                    "endColumn": 213,
+                    "endOffset": 12859
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 0,
+                        "startOffset": 5710,
+                        "endColumn": 209,
+                        "endOffset": 5919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 12864,
+                    "endColumn": 50,
+                    "endOffset": 12910
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 0,
+                        "startOffset": 5513,
+                        "endColumn": 46,
+                        "endOffset": 5559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 12915,
+                    "endColumn": 105,
+                    "endOffset": 13016
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 0,
+                        "startOffset": 5561,
+                        "endColumn": 101,
+                        "endOffset": 5662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 13021,
+                    "endColumn": 51,
+                    "endOffset": 13068
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 0,
+                        "startOffset": 5464,
+                        "endColumn": 47,
+                        "endOffset": 5511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 13073,
+                    "endColumn": 132,
+                    "endOffset": 13201
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 0,
+                        "startOffset": 14813,
+                        "endColumn": 128,
+                        "endOffset": 14941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 13206,
+                    "endColumn": 44,
+                    "endOffset": 13246
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 0,
+                        "startOffset": 14943,
+                        "endColumn": 40,
+                        "endOffset": 14983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 13251,
+                    "endColumn": 64,
+                    "endOffset": 13311
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 0,
+                        "startOffset": 14692,
+                        "endColumn": 60,
+                        "endOffset": 14752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 13316,
+                    "endColumn": 61,
+                    "endOffset": 13373
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 0,
+                        "startOffset": 14754,
+                        "endColumn": 57,
+                        "endOffset": 14811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 13378,
+                    "endColumn": 74,
+                    "endOffset": 13448
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 0,
+                        "startOffset": 11314,
+                        "endColumn": 70,
+                        "endOffset": 11384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 13453,
+                    "endColumn": 101,
+                    "endOffset": 13550
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 0,
+                        "startOffset": 10892,
+                        "endColumn": 97,
+                        "endOffset": 10989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 13555,
+                    "endColumn": 79,
+                    "endOffset": 13630
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 0,
+                        "startOffset": 10815,
+                        "endColumn": 75,
+                        "endOffset": 10890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 13635,
+                    "endColumn": 60,
+                    "endOffset": 13691
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 0,
+                        "startOffset": 11188,
+                        "endColumn": 56,
+                        "endOffset": 11244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 13696,
+                    "endColumn": 67,
+                    "endOffset": 13759
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 0,
+                        "startOffset": 11489,
+                        "endColumn": 63,
+                        "endOffset": 11552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 13764,
+                    "endColumn": 65,
+                    "endOffset": 13825
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 0,
+                        "startOffset": 11125,
+                        "endColumn": 61,
+                        "endOffset": 11186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 13830,
+                    "endColumn": 68,
+                    "endOffset": 13894
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 0,
+                        "startOffset": 10991,
+                        "endColumn": 64,
+                        "endOffset": 11055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 13899,
+                    "endColumn": 70,
+                    "endOffset": 13965
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 0,
+                        "startOffset": 11057,
+                        "endColumn": 66,
+                        "endOffset": 11123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 13970,
+                    "endColumn": 61,
+                    "endOffset": 14027
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 0,
+                        "startOffset": 11386,
+                        "endColumn": 57,
+                        "endOffset": 11443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 14032,
+                    "endColumn": 46,
+                    "endOffset": 14074
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 0,
+                        "startOffset": 11445,
+                        "endColumn": 42,
+                        "endOffset": 11487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 14079,
+                    "endColumn": 70,
+                    "endOffset": 14145
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 0,
+                        "startOffset": 11246,
+                        "endColumn": 66,
+                        "endOffset": 11312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 14150,
+                    "endColumn": 70,
+                    "endOffset": 14216
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 0,
+                        "startOffset": 13440,
+                        "endColumn": 66,
+                        "endOffset": 13506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 14221,
+                    "endColumn": 65,
+                    "endOffset": 14282
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 0,
+                        "startOffset": 12349,
+                        "endColumn": 61,
+                        "endOffset": 12410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 14287,
+                    "endColumn": 48,
+                    "endOffset": 14331
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 0,
+                        "startOffset": 12502,
+                        "endColumn": 44,
+                        "endOffset": 12546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 14336,
+                    "endColumn": 47,
+                    "endOffset": 14379
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 0,
+                        "startOffset": 12548,
+                        "endColumn": 43,
+                        "endOffset": 12591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 14384,
+                    "endColumn": 47,
+                    "endOffset": 14427
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 0,
+                        "startOffset": 12412,
+                        "endColumn": 43,
+                        "endOffset": 12455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 14432,
+                    "endColumn": 47,
+                    "endOffset": 14475
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 0,
+                        "startOffset": 12457,
+                        "endColumn": 43,
+                        "endOffset": 12500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 14480,
+                    "endColumn": 50,
+                    "endOffset": 14526
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 0,
+                        "startOffset": 12301,
+                        "endColumn": 46,
+                        "endOffset": 12347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 14531,
+                    "endColumn": 74,
+                    "endOffset": 14601
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 0,
+                        "startOffset": 12593,
+                        "endColumn": 70,
+                        "endOffset": 12663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 14606,
+                    "endColumn": 88,
+                    "endOffset": 14690
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 0,
+                        "startOffset": 12745,
+                        "endColumn": 84,
+                        "endOffset": 12829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 14695,
+                    "endColumn": 82,
+                    "endOffset": 14773
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 0,
+                        "startOffset": 12665,
+                        "endColumn": 78,
+                        "endOffset": 12743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 14778,
+                    "endColumn": 67,
+                    "endOffset": 14841
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 0,
+                        "startOffset": 13014,
+                        "endColumn": 63,
+                        "endOffset": 13077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 14846,
+                    "endColumn": 52,
+                    "endOffset": 14894
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 0,
+                        "startOffset": 12831,
+                        "endColumn": 48,
+                        "endOffset": 12879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 14899,
+                    "endColumn": 65,
+                    "endOffset": 14960
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 0,
+                        "startOffset": 12881,
+                        "endColumn": 61,
+                        "endOffset": 12942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 14965,
+                    "endColumn": 72,
+                    "endOffset": 15033
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 0,
+                        "startOffset": 12944,
+                        "endColumn": 68,
+                        "endOffset": 13012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 15038,
+                    "endColumn": 64,
+                    "endOffset": 15098
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 0,
+                        "startOffset": 2199,
+                        "endColumn": 60,
+                        "endOffset": 2259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 15103,
+                    "endColumn": 78,
+                    "endOffset": 15177
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 2334,
+                        "endColumn": 74,
+                        "endOffset": 2408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 15182,
+                    "endColumn": 75,
+                    "endOffset": 15253
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 0,
+                        "startOffset": 2261,
+                        "endColumn": 71,
+                        "endOffset": 2332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 15258,
+                    "endColumn": 55,
+                    "endOffset": 15309
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 1391,
+                        "endColumn": 51,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 15314,
+                    "endColumn": 86,
+                    "endOffset": 15396
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 1522,
+                        "endColumn": 82,
+                        "endOffset": 1604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 15401,
+                    "endColumn": 80,
+                    "endOffset": 15477
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 1444,
+                        "endColumn": 76,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 15482,
+                    "endColumn": 65,
+                    "endOffset": 15543
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1328,
+                        "endColumn": 61,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 15548,
+                    "endColumn": 46,
+                    "endOffset": 15590
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1211,
+                        "endColumn": 42,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 15595,
+                    "endColumn": 75,
+                    "endOffset": 15666
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 1255,
+                        "endColumn": 71,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 15671,
+                    "endColumn": 47,
+                    "endOffset": 15714
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 2154,
+                        "endColumn": 43,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 15719,
+                    "endColumn": 64,
+                    "endOffset": 15779
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 0,
+                        "startOffset": 2410,
+                        "endColumn": 60,
+                        "endOffset": 2470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 15784,
+                    "endColumn": 52,
+                    "endOffset": 15832
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 1868,
+                        "endColumn": 48,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 15837,
+                    "endColumn": 67,
+                    "endOffset": 15900
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 0,
+                        "startOffset": 1803,
+                        "endColumn": 63,
+                        "endOffset": 1866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 15905,
+                    "endColumn": 199,
+                    "endOffset": 16100
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 0,
+                        "startOffset": 1606,
+                        "endColumn": 195,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 16105,
+                    "endColumn": 51,
+                    "endOffset": 16152
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 0,
+                        "startOffset": 2105,
+                        "endColumn": 47,
+                        "endOffset": 2152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 16157,
+                    "endColumn": 50,
+                    "endOffset": 16203
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 0,
+                        "startOffset": 2057,
+                        "endColumn": 46,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 16208,
+                    "endColumn": 51,
+                    "endOffset": 16255
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 2008,
+                        "endColumn": 47,
+                        "endOffset": 2055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 16260,
+                    "endColumn": 46,
+                    "endOffset": 16302
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 0,
+                        "startOffset": 1918,
+                        "endColumn": 42,
+                        "endOffset": 1960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 16307,
+                    "endColumn": 48,
+                    "endOffset": 16351
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 0,
+                        "startOffset": 1962,
+                        "endColumn": 44,
+                        "endOffset": 2006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 16356,
+                    "endColumn": 48,
+                    "endOffset": 16400
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 0,
+                        "startOffset": 8260,
+                        "endColumn": 44,
+                        "endOffset": 8304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 16405,
+                    "endColumn": 64,
+                    "endOffset": 16465
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 0,
+                        "startOffset": 8306,
+                        "endColumn": 60,
+                        "endOffset": 8366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 16470,
+                    "endColumn": 53,
+                    "endOffset": 16519
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 0,
+                        "startOffset": 8368,
+                        "endColumn": 49,
+                        "endOffset": 8417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 16524,
+                    "endColumn": 43,
+                    "endOffset": 16563
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 0,
+                        "startOffset": 8219,
+                        "endColumn": 39,
+                        "endOffset": 8258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 16568,
+                    "endColumn": 44,
+                    "endOffset": 16608
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 0,
+                        "startOffset": 4217,
+                        "endColumn": 40,
+                        "endOffset": 4257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 16613,
+                    "endColumn": 50,
+                    "endOffset": 16659
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 0,
+                        "startOffset": 4259,
+                        "endColumn": 46,
+                        "endOffset": 4305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 16664,
+                    "endColumn": 45,
+                    "endOffset": 16705
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 0,
+                        "startOffset": 4307,
+                        "endColumn": 41,
+                        "endOffset": 4348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 16710,
+                    "endColumn": 55,
+                    "endOffset": 16761
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 0,
+                        "startOffset": 4118,
+                        "endColumn": 51,
+                        "endOffset": 4169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 16766,
+                    "endColumn": 45,
+                    "endOffset": 16807
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 0,
+                        "startOffset": 4350,
+                        "endColumn": 41,
+                        "endOffset": 4391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 16812,
+                    "endColumn": 64,
+                    "endOffset": 16872
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 0,
+                        "startOffset": 4485,
+                        "endColumn": 60,
+                        "endOffset": 4545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 16877,
+                    "endColumn": 45,
+                    "endOffset": 16918
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 0,
+                        "startOffset": 4442,
+                        "endColumn": 41,
+                        "endOffset": 4483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 16923,
+                    "endColumn": 51,
+                    "endOffset": 16970
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 0,
+                        "startOffset": 4393,
+                        "endColumn": 47,
+                        "endOffset": 4440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 16975,
+                    "endColumn": 120,
+                    "endOffset": 17091
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 0,
+                        "startOffset": 4621,
+                        "endColumn": 116,
+                        "endOffset": 4737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 17096,
+                    "endColumn": 76,
+                    "endOffset": 17168
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 0,
+                        "startOffset": 4547,
+                        "endColumn": 72,
+                        "endOffset": 4619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 17173,
+                    "endColumn": 71,
+                    "endOffset": 17240
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 0,
+                        "startOffset": 4739,
+                        "endColumn": 67,
+                        "endOffset": 4806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 17245,
+                    "endColumn": 48,
+                    "endOffset": 17289
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 0,
+                        "startOffset": 4171,
+                        "endColumn": 44,
+                        "endOffset": 4215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 17294,
+                    "endColumn": 67,
+                    "endOffset": 17357
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 0,
+                        "startOffset": 9061,
+                        "endColumn": 63,
+                        "endOffset": 9124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 17362,
+                    "endColumn": 47,
+                    "endOffset": 17405
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 0,
+                        "startOffset": 9649,
+                        "endColumn": 43,
+                        "endOffset": 9692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 17410,
+                    "endColumn": 81,
+                    "endOffset": 17487
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 0,
+                        "startOffset": 9758,
+                        "endColumn": 77,
+                        "endOffset": 9835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 17492,
+                    "endColumn": 58,
+                    "endOffset": 17546
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 0,
+                        "startOffset": 9958,
+                        "endColumn": 54,
+                        "endOffset": 10012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 17551,
+                    "endColumn": 57,
+                    "endOffset": 17604
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 0,
+                        "startOffset": 9837,
+                        "endColumn": 53,
+                        "endOffset": 9890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 17609,
+                    "endColumn": 68,
+                    "endOffset": 17673
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 0,
+                        "startOffset": 9892,
+                        "endColumn": 64,
+                        "endOffset": 9956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 17678,
+                    "endColumn": 66,
+                    "endOffset": 17740
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 0,
+                        "startOffset": 9694,
+                        "endColumn": 62,
+                        "endOffset": 9756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 17745,
+                    "endColumn": 75,
+                    "endOffset": 17816
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 0,
+                        "startOffset": 8670,
+                        "endColumn": 71,
+                        "endOffset": 8741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 17821,
+                    "endColumn": 63,
+                    "endOffset": 17880
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 0,
+                        "startOffset": 10093,
+                        "endColumn": 59,
+                        "endOffset": 10152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 17885,
+                    "endColumn": 49,
+                    "endOffset": 17930
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 0,
+                        "startOffset": 10362,
+                        "endColumn": 45,
+                        "endOffset": 10407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 17935,
+                    "endColumn": 57,
+                    "endOffset": 17988
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 0,
+                        "startOffset": 9282,
+                        "endColumn": 53,
+                        "endOffset": 9335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 17993,
+                    "endColumn": 84,
+                    "endOffset": 18073
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 0,
+                        "startOffset": 9200,
+                        "endColumn": 80,
+                        "endOffset": 9280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 18078,
+                    "endColumn": 44,
+                    "endOffset": 18118
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 0,
+                        "startOffset": 9607,
+                        "endColumn": 40,
+                        "endOffset": 9647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 18123,
+                    "endColumn": 60,
+                    "endOffset": 18179
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 0,
+                        "startOffset": 9389,
+                        "endColumn": 56,
+                        "endOffset": 9445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 18184,
+                    "endColumn": 46,
+                    "endOffset": 18226
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 0,
+                        "startOffset": 10263,
+                        "endColumn": 42,
+                        "endOffset": 10305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 18231,
+                    "endColumn": 96,
+                    "endOffset": 18323
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 0,
+                        "startOffset": 9513,
+                        "endColumn": 92,
+                        "endOffset": 9605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 18328,
+                    "endColumn": 69,
+                    "endOffset": 18393
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 0,
+                        "startOffset": 8868,
+                        "endColumn": 65,
+                        "endOffset": 8933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 18398,
+                    "endColumn": 68,
+                    "endOffset": 18462
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 0,
+                        "startOffset": 9447,
+                        "endColumn": 64,
+                        "endOffset": 9511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 18467,
+                    "endColumn": 81,
+                    "endOffset": 18544
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 0,
+                        "startOffset": 10014,
+                        "endColumn": 77,
+                        "endOffset": 10091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 18549,
+                    "endColumn": 57,
+                    "endOffset": 18602
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 0,
+                        "startOffset": 10307,
+                        "endColumn": 53,
+                        "endOffset": 10360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 18607,
+                    "endColumn": 76,
+                    "endOffset": 18679
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 0,
+                        "startOffset": 9126,
+                        "endColumn": 72,
+                        "endOffset": 9198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 18684,
+                    "endColumn": 54,
+                    "endOffset": 18734
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 0,
+                        "startOffset": 10154,
+                        "endColumn": 50,
+                        "endOffset": 10204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 18739,
+                    "endColumn": 71,
+                    "endOffset": 18806
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 0,
+                        "startOffset": 8935,
+                        "endColumn": 67,
+                        "endOffset": 9002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 18811,
+                    "endColumn": 54,
+                    "endOffset": 18861
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 0,
+                        "startOffset": 9337,
+                        "endColumn": 50,
+                        "endOffset": 9387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 18866,
+                    "endColumn": 59,
+                    "endOffset": 18921
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 0,
+                        "startOffset": 10206,
+                        "endColumn": 55,
+                        "endOffset": 10261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 18926,
+                    "endColumn": 63,
+                    "endOffset": 18985
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 0,
+                        "startOffset": 8807,
+                        "endColumn": 59,
+                        "endOffset": 8866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 18990,
+                    "endColumn": 56,
+                    "endOffset": 19042
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 0,
+                        "startOffset": 8616,
+                        "endColumn": 52,
+                        "endOffset": 8668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 19047,
+                    "endColumn": 66,
+                    "endOffset": 19109
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 0,
+                        "startOffset": 8743,
+                        "endColumn": 62,
+                        "endOffset": 8805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 19114,
+                    "endColumn": 59,
+                    "endOffset": 19169
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 0,
+                        "startOffset": 9004,
+                        "endColumn": 55,
+                        "endOffset": 9059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 19174,
+                    "endColumn": 83,
+                    "endOffset": 19253
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 0,
+                        "startOffset": 13289,
+                        "endColumn": 79,
+                        "endOffset": 13368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 19258,
+                    "endColumn": 57,
+                    "endOffset": 19311
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 0,
+                        "startOffset": 2472,
+                        "endColumn": 53,
+                        "endOffset": 2525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 19316,
+                    "endColumn": 99,
+                    "endOffset": 19411
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 0,
+                        "startOffset": 2527,
+                        "endColumn": 95,
+                        "endOffset": 2622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 19416,
+                    "endColumn": 61,
+                    "endOffset": 19473
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 0,
+                        "startOffset": 3339,
+                        "endColumn": 57,
+                        "endOffset": 3396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 19478,
+                    "endColumn": 42,
+                    "endOffset": 19516
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 0,
+                        "startOffset": 3299,
+                        "endColumn": 38,
+                        "endOffset": 3337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 19521,
+                    "endColumn": 59,
+                    "endOffset": 19576
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 0,
+                        "startOffset": 2677,
+                        "endColumn": 55,
+                        "endOffset": 2732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 19581,
+                    "endColumn": 55,
+                    "endOffset": 19632
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 0,
+                        "startOffset": 2624,
+                        "endColumn": 51,
+                        "endOffset": 2675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 19637,
+                    "endColumn": 59,
+                    "endOffset": 19692
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 0,
+                        "startOffset": 3580,
+                        "endColumn": 55,
+                        "endOffset": 3635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 19697,
+                    "endColumn": 67,
+                    "endOffset": 19760
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 0,
+                        "startOffset": 2862,
+                        "endColumn": 63,
+                        "endOffset": 2925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 19765,
+                    "endColumn": 59,
+                    "endOffset": 19820
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 0,
+                        "startOffset": 2734,
+                        "endColumn": 55,
+                        "endOffset": 2789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 19825,
+                    "endColumn": 73,
+                    "endOffset": 19894
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 0,
+                        "startOffset": 2791,
+                        "endColumn": 69,
+                        "endOffset": 2860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 19899,
+                    "endColumn": 50,
+                    "endOffset": 19945
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 0,
+                        "startOffset": 3490,
+                        "endColumn": 46,
+                        "endOffset": 3536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 19950,
+                    "endColumn": 56,
+                    "endOffset": 20002
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 0,
+                        "startOffset": 3695,
+                        "endColumn": 52,
+                        "endOffset": 3747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 20007,
+                    "endColumn": 72,
+                    "endOffset": 20075
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 0,
+                        "startOffset": 3749,
+                        "endColumn": 68,
+                        "endOffset": 3817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 20080,
+                    "endColumn": 84,
+                    "endOffset": 20160
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 0,
+                        "startOffset": 3885,
+                        "endColumn": 80,
+                        "endOffset": 3965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 20165,
+                    "endColumn": 68,
+                    "endOffset": 20229
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 0,
+                        "startOffset": 3819,
+                        "endColumn": 64,
+                        "endOffset": 3883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 20234,
+                    "endColumn": 59,
+                    "endOffset": 20289
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 0,
+                        "startOffset": 2966,
+                        "endColumn": 55,
+                        "endOffset": 3021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 20294,
+                    "endColumn": 44,
+                    "endOffset": 20334
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 0,
+                        "startOffset": 3538,
+                        "endColumn": 40,
+                        "endOffset": 3578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 20339,
+                    "endColumn": 53,
+                    "endOffset": 20388
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 0,
+                        "startOffset": 3023,
+                        "endColumn": 49,
+                        "endOffset": 3072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 20393,
+                    "endColumn": 67,
+                    "endOffset": 20456
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 0,
+                        "startOffset": 3131,
+                        "endColumn": 63,
+                        "endOffset": 3194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 20461,
+                    "endColumn": 55,
+                    "endOffset": 20512
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 0,
+                        "startOffset": 3246,
+                        "endColumn": 51,
+                        "endOffset": 3297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 20517,
+                    "endColumn": 60,
+                    "endOffset": 20573
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 0,
+                        "startOffset": 3637,
+                        "endColumn": 56,
+                        "endOffset": 3693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 20578,
+                    "endColumn": 41,
+                    "endOffset": 20615
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 0,
+                        "startOffset": 2927,
+                        "endColumn": 37,
+                        "endOffset": 2964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 20620,
+                    "endColumn": 59,
+                    "endOffset": 20675
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 0,
+                        "startOffset": 3074,
+                        "endColumn": 55,
+                        "endOffset": 3129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 20680,
+                    "endColumn": 52,
+                    "endOffset": 20728
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 0,
+                        "startOffset": 3196,
+                        "endColumn": 48,
+                        "endOffset": 3244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 20733,
+                    "endColumn": 41,
+                    "endOffset": 20770
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 0,
+                        "startOffset": 3451,
+                        "endColumn": 37,
+                        "endOffset": 3488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 20775,
+                    "endColumn": 55,
+                    "endOffset": 20826
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 0,
+                        "startOffset": 3398,
+                        "endColumn": 51,
+                        "endOffset": 3449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 20831,
+                    "endColumn": 213,
+                    "endOffset": 21040
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 0,
+                        "startOffset": 8008,
+                        "endColumn": 209,
+                        "endOffset": 8217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 21045,
+                    "endColumn": 53,
+                    "endOffset": 21094
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 0,
+                        "startOffset": 7608,
+                        "endColumn": 49,
+                        "endOffset": 7657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 21099,
+                    "endColumn": 51,
+                    "endOffset": 21146
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 0,
+                        "startOffset": 7713,
+                        "endColumn": 47,
+                        "endOffset": 7760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 21151,
+                    "endColumn": 248,
+                    "endOffset": 21395
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 0,
+                        "startOffset": 7762,
+                        "endColumn": 244,
+                        "endOffset": 8006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 21400,
+                    "endColumn": 58,
+                    "endOffset": 21454
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 0,
+                        "startOffset": 7511,
+                        "endColumn": 54,
+                        "endOffset": 7565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 21459,
+                    "endColumn": 56,
+                    "endOffset": 21511
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 0,
+                        "startOffset": 7659,
+                        "endColumn": 52,
+                        "endOffset": 7711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 21516,
+                    "endColumn": 43,
+                    "endOffset": 21555
+                },
+                "from": {
+                    "file": "C:\\Development\\GitHub\\littlescar\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 0,
+                        "startOffset": 7567,
+                        "endColumn": 39,
+                        "endOffset": 7606
+                    }
+                }
+            }
+        ]
+    }
+]

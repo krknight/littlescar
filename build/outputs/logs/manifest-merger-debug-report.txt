@@ -1,0 +1,721 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:2:1-381:12
+	package
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+		INJECTED from C:\Development\GitHub\littlescar\AndroidManifest.xml
+permission#com.painless.pc.permission.CONTROL_PLUGIN
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:11:5-16:47
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:15:9-46
+	android:protectionLevel
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:16:9-44
+	android:icon
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:14:9-52
+	android:description
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:13:9-51
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:12:9-65
+uses-permission#net.dinglisch.android.tasker.PERMISSION_RUN_TASKS
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:18:5-89
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:18:22-86
+uses-permission#com.painless.pc.permission.CONTROL_PLUGIN
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:24:5-77
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:24:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:25:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:27:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:28:22-71
+uses-permission#android.permission.ACCESS_WIMAX_STATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:29:5-77
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:29:22-74
+uses-permission#android.permission.CHANGE_WIMAX_STATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:30:5-77
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:30:22-74
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:31:22-73
+uses-permission#android.permission.NFC
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:32:5-62
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:32:22-59
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:33:5-66
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:33:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:34:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:35:5-71
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:35:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:36:5-67
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:36:22-64
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:37:5-75
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:37:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:40:5-78
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:40:22-75
+uses-permission#android.permission.WRITE_APN_SETTINGS
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:41:5-77
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:41:22-74
+uses-permission#android.permission.MANAGE_USB
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:42:5-69
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:42:22-66
+uses-permission#android.permission.UPDATE_DEVICE_STATS
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:43:5-78
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:43:22-75
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:44:5-79
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:44:22-76
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:45:5-80
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:45:22-77
+uses-permission#android.permission.ACCESS_SUPERUSER
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:46:5-75
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:46:22-72
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:47:5-77
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:47:22-74
+uses-permission#android.permission.REBOOT
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:48:5-65
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:48:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:51:5-69
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:51:22-66
+uses-permission#android.permission.CAMERA
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:52:5-54:38
+	android:maxSdkVersion
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:54:9-35
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:53:9-49
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:57:5-81
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:57:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:58:5-79
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:58:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:59:5-69
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:59:22-66
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:62:5-73
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:62:22-70
+uses-feature#android.hardware.camera
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:64:5-66:36
+	android:required
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:66:9-33
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:65:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:67:5-69:36
+	android:required
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:69:9-33
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:68:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:70:5-72:36
+	android:required
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:72:9-33
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:71:9-53
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:73:5-75:36
+	android:required
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:75:9-33
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:74:9-50
+uses-feature#android.hardware.location
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:76:5-78:36
+	android:required
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:78:9-33
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:77:9-49
+uses-feature#android.hardware.location.gps
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:79:5-81:36
+	android:required
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:81:9-33
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:80:9-53
+uses-feature#android.hardware.telephony
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:82:5-84:36
+	android:required
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:84:9-33
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:83:9-50
+uses-feature#android.hardware.wifi
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:85:5-87:36
+	android:required
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:87:9-33
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:86:9-45
+application
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:89:5-379:19
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:92:9-41
+	android:allowBackup
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:90:9-35
+	android:icon
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:91:9-45
+receiver#com.painless.pc.PCWidgetActivity
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:93:9-109:20
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:96:13-45
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:95:13-36
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:94:13-45
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+com.buzzpia.aqua.appwidget.GET_CONFIG_DATA+com.buzzpia.aqua.appwidget.GET_VERSION+com.buzzpia.aqua.appwidget.SET_CONFIG_DATA
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:97:13-104:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:98:17-84
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:98:25-81
+action#com.buzzpia.aqua.appwidget.GET_VERSION
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:101:17-81
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:101:25-78
+action#com.buzzpia.aqua.appwidget.GET_CONFIG_DATA
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:102:17-85
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:102:25-82
+action#com.buzzpia.aqua.appwidget.SET_CONFIG_DATA
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:103:17-85
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:103:25-82
+meta-data#android.appwidget.provider
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:106:13-108:58
+	android:resource
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:108:17-55
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:107:17-58
+receiver#com.painless.pc.CommandReceiver
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:110:9-130:20
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:111:13-44
+intent-filter#android.bluetooth.adapter.action.SCAN_MODE_CHANGED+android.bluetooth.adapter.action.STATE_CHANGED+android.intent.action.AIRPLANE_MODE+android.intent.action.BOOT_COMPLETED+android.intent.action.MY_PACKAGE_REPLACED+android.location.PROVIDERS_CHANGED+android.media.RINGER_MODE_CHANGED+android.net.conn.TETHER_STATE_CHANGED+android.net.wifi.WIFI_AP_STATE_CHANGED+android.net.wifi.WIFI_STATE_CHANGED+android.net.wimax.WIMAX_STATE_CHANGE+android.nfc.action.ADAPTER_STATE_CHANGED+com.android.sync.SYNC_CONN_STATUS_CHANGED+com.painless.pc.BATTERY_POLL+com.painless.pc.CUSTOM_ACTION
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:113:13-129:29
+action#android.net.wifi.WIFI_AP_STATE_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:114:17-81
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:114:25-78
+action#android.net.conn.TETHER_STATE_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:115:17-80
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:115:25-77
+action#com.android.sync.SYNC_CONN_STATUS_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:116:17-84
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:116:25-81
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:117:17-78
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:117:25-75
+action#android.location.PROVIDERS_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:118:17-77
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:118:25-74
+action#android.bluetooth.adapter.action.STATE_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:119:17-89
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:119:25-86
+action#android.bluetooth.adapter.action.SCAN_MODE_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:120:17-93
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:120:25-90
+action#android.intent.action.AIRPLANE_MODE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:121:17-78
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:121:25-75
+action#android.net.wimax.WIMAX_STATE_CHANGE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:122:17-79
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:122:25-76
+action#android.media.RINGER_MODE_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:123:17-76
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:123:25-73
+action#android.nfc.action.ADAPTER_STATE_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:124:17-83
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:124:25-80
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:125:17-79
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:125:25-76
+action#com.painless.pc.CUSTOM_ACTION
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:126:17-72
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:126:25-69
+action#com.painless.pc.BATTERY_POLL
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:127:17-71
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:127:25-68
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:128:17-84
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:128:25-81
+receiver#com.painless.pc.ConnectivityReceiver
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:131:9-138:20
+	android:enabled
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:133:13-36
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:134:13-37
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:132:13-49
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:135:13-137:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:136:17-79
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:136:25-76
+provider#com.painless.pc.FileProvider
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:140:9-145:43
+	android:authorities
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:142:13-55
+	android:grantUriPermissions
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:144:13-47
+	android:multiprocess
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:145:13-40
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:143:13-36
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:141:13-40
+receiver#com.painless.pc.LockAdmin
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:148:9-160:20
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:151:13-48
+	android:permission
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:152:13-70
+	android:description
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:150:13-53
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:149:13-37
+meta-data#android.app.device_admin
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:153:13-155:54
+	android:resource
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:155:17-51
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:154:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:157:13-159:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:158:17-82
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:158:25-79
+activity#com.painless.pc.settings.LaunchActivity
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:163:9-173:20
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:166:13-45
+	android:icon
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:165:13-49
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:167:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:164:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:168:13-172:29
+action#android.intent.action.MAIN
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:169:17-69
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:169:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:171:17-77
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:171:27-74
+activity-alias#com.painless.pc.NotificationSettings
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:175:9-186:26
+	android:clearTaskOnLaunch
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:177:13-45
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:178:13-36
+	android:targetActivity
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:179:13-62
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:176:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.NOTIFICATION_PREFERENCES
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:180:13-185:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:183:17-76
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:183:27-73
+category#android.intent.category.NOTIFICATION_PREFERENCES
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:184:17-93
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:184:27-90
+activity#com.painless.pc.picker.IconPackPicker
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:189:9-201:20
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:192:13-49
+	android:configChanges
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:191:13-59
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:193:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:190:13-50
+intent-filter#android.intent.action.SEARCH
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:194:13-196:29
+action#android.intent.action.SEARCH
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:195:17-71
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:195:25-68
+meta-data#android.app.searchable
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:198:13-200:55
+	android:resource
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:200:17-52
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:199:17-54
+activity#com.painless.pc.picker.FilePicker
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:202:9-204:52
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:204:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:203:13-46
+activity#com.painless.pc.picker.ThemePicker
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:205:9-208:50
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:207:13-45
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:208:13-47
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:206:13-47
+activity#com.painless.pc.cfg.WidgetConfigActivity
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:211:9-226:20
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:214:13-43
+	android:configChanges
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:213:13-74
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:215:13-47
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:212:13-53
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:216:13-218:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:217:17-87
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:217:25-84
+activity#com.painless.pc.cfg.IconThemeEditor
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:227:9-229:52
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:229:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:228:13-48
+activity#com.painless.pc.cfg.BatteryIconEditor
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:230:9-232:52
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:232:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:231:13-50
+activity#com.painless.pc.cfg.NinePatchEditor
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:233:9-236:52
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:235:13-46
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:236:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:234:13-48
+activity#com.painless.pc.cfg.ConfigGuide
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:237:9-242:75
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:240:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:241:13-37
+	android:configChanges
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:239:13-59
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:242:13-72
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:238:13-44
+activity#com.painless.pc.qs.TileConfigActivity
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:243:9-256:20
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:246:13-45
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:247:13-43
+	android:configChanges
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:245:13-74
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:248:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:244:13-50
+activity#com.painless.pc.acts.BrightnessActivity
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:258:9-262:49
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:260:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:261:13-37
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:262:13-46
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:259:13-52
+activity#com.painless.pc.FlashActivity
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:263:9-268:49
+	android:screenOrientation
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:267:13-49
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:265:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:266:13-37
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:268:13-46
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:264:13-41
+activity#com.painless.pc.BootDialog
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:269:9-273:73
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:271:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:272:13-37
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:273:13-70
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:270:13-38
+activity#com.painless.pc.RLPicker
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:274:9-279:73
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:276:13-45
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:277:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:278:13-37
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:279:13-70
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:275:13-36
+activity#com.painless.pc.acts.BrightnessSlider
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:280:9-284:49
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:282:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:283:13-37
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:284:13-46
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:281:13-50
+activity#com.painless.pc.acts.VolumeSlider
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:285:9-289:49
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:287:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:288:13-37
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:289:13-46
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:286:13-46
+activity#com.painless.pc.ProxyActivity
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:290:9-294:49
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:292:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:293:13-37
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:294:13-46
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:291:13-41
+activity#com.painless.pc.PermissionDialog
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:295:9-300:79
+	android:excludeFromRecents
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:297:13-46
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:298:13-44
+	android:noHistory
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:299:13-37
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:300:13-76
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:296:13-44
+service#com.painless.pc.FlashService
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:302:9-48
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:302:18-45
+service#com.painless.pc.FlashServiceM
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:303:9-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:303:18-46
+service#com.painless.pc.ImmersiveService
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:304:9-52
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:304:18-49
+service#com.painless.pc.NoLockService
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:305:9-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:305:18-46
+service#com.painless.pc.ScreenOnService
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:306:9-51
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:306:18-48
+service#com.painless.pc.RLService
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:307:9-45
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:307:18-42
+service#com.painless.pc.BatteryService
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:308:9-50
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:308:18-47
+activity#com.painless.pc.folder.FolderActivity
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:311:9-325:20
+	android:excludeFromRecents
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:314:13-46
+	android:launchMode
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:316:13-44
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:315:13-36
+	android:configChanges
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:313:13-74
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:317:13-46
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:312:13-50
+activity#com.painless.pc.folder.FolderPick
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:326:9-336:20
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:329:13-49
+	android:icon
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:328:13-49
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:330:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:327:13-46
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:331:13-335:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:332:17-80
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:332:25-77
+receiver#com.painless.pc.PluginUpdateReceiver
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:339:9-357:20
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:341:13-36
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:340:13-49
+intent-filter#net.dinglisch.android.tasker.ACTION_TASK_COMPLETE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:344:13-348:29
+action#net.dinglisch.android.tasker.ACTION_TASK_COMPLETE
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:345:17-92
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:345:25-89
+data
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:347:17-47
+	android:scheme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:347:23-44
+intent-filter#com.painless.pc.ACTION_STATE_CHANGED+com.twofortyfouram.locale.intent.action.FIRE_SETTING
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:349:13-356:29
+action#com.twofortyfouram.locale.intent.action.FIRE_SETTING
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:352:17-95
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:352:25-92
+action#com.painless.pc.ACTION_STATE_CHANGED
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:355:17-79
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:355:25-76
+activity#com.painless.pc.settings.TaskerToggleSetup
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:359:9-368:20
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:363:13-52
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:361:13-36
+	android:icon
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:362:13-49
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:364:13-49
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:360:13-55
+intent-filter#com.twofortyfouram.locale.intent.action.EDIT_SETTING
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:365:13-367:29
+action#com.twofortyfouram.locale.intent.action.EDIT_SETTING
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:366:17-95
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:366:25-92
+activity#com.painless.pc.settings.TaskerRefresh
+ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:369:9-378:20
+	android:label
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:373:13-47
+	android:exported
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:371:13-36
+	android:icon
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:372:13-49
+	android:theme
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:374:13-72
+	android:name
+		ADDED from C:\Development\GitHub\littlescar\AndroidManifest.xml:370:13-51

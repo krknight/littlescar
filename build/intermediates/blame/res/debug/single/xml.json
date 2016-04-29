@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\xml\\lock_admin.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\xml\\lock_admin.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\xml\\main_headers.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\xml\\main_headers.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\xml\\widgetprovider.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\xml\\widgetprovider.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\xml\\tcache.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\xml\\tcache.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\xml\\app_info.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\xml\\app_info.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\xml\\toggle_search.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\xml\\toggle_search.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\xml\\icon_search.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\xml\\icon_search.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wbg_ripple_center.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\drawable-v21\\wbg_ripple_center.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_config_bbar.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\drawable-v21\\bg_config_bbar.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_folder_item.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\drawable-v21\\bg_folder_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_wp_card.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\drawable-v21\\bg_wp_card.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_config_header.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\drawable-v21\\bg_config_header.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wbg_ripple_right.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\drawable-v21\\wbg_ripple_right.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wbg_ripple_left.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\drawable-v21\\wbg_ripple_left.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_config_add.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\drawable-v21\\bg_config_add.xml"
+    }
+]

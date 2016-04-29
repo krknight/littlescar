@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\menu\\config_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\menu\\config_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\menu\\qs_cfg_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\menu\\qs_cfg_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\menu\\ite_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\menu\\ite_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\menu\\widget_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\menu\\widget_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\menu\\bid_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\menu\\bid_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\menu\\folder_restore.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\menu\\folder_restore.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\menu\\folder_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\menu\\folder_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\menu\\notify_settings_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\menu\\notify_settings_menu.xml"
+    }
+]

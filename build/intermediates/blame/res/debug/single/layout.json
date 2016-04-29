@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_header.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\list_item_header.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\aw_default_common.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\aw_default_common.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_normal.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\list_item_normal.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\toggle_picker_activity.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\toggle_picker_activity.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\cfg_toggle_edit_popup_content.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\cfg_toggle_edit_popup_content.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ts_tap_speed.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ts_tap_speed.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ab_done_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ab_done_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\aw_label.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\aw_label.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ts_fragment.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ts_fragment.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\tasker_toggle_setup.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\tasker_toggle_setup.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\cfg_icon_theme_editor_item.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\cfg_icon_theme_editor_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ts_section_middle.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ts_section_middle.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\timeout_pref_item.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\timeout_pref_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\nw_collapsed.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\nw_collapsed.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\folder_item_options.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\folder_item_options.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\cfg_battery_icon_editor.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\cfg_battery_icon_editor.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\list_frag.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\list_frag.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\aw_default.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\aw_default.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\folder_picker.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\folder_picker.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\cm_divider.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\cm_divider.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ts_battery_colors.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ts_battery_colors.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\volume_sliders.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\volume_sliders.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ab_done_bar.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ab_done_bar.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\widget_config_activity.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\widget_config_activity.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\nav_notify.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\nav_notify.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\aw_huge_icons_common.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\aw_huge_icons_common.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\qs_config_activity.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\qs_config_activity.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\nw_expanded.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\nw_expanded.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ab_color_btn.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ab_color_btn.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\cfg_toggle_edit_popup.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\cfg_toggle_edit_popup.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\aw_huge_icons_60.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\aw_huge_icons_60.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_loader.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\list_item_loader.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\color_picker.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\color_picker.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\file_picker.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\file_picker.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ts_pref_bright_modes.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ts_pref_bright_modes.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\folder_preview.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\folder_preview.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ts_section_header.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ts_section_header.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ts_section_bottom.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ts_section_bottom.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ts_pref_checkbox.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ts_pref_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\aw_default_60.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\aw_default_60.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\theme_item_loading.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\theme_item_loading.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ab_done_btn.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ab_done_btn.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\file_picker_folderitem.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\file_picker_folderitem.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\ab_add_menu.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\ab_add_menu.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\aw_huge_icons.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\aw_huge_icons.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\widget_picker_card.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\widget_picker_card.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\folder_item.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\folder_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\tasker_task_picker.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\tasker_task_picker.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_single_choice.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\list_item_single_choice.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\timeout_pref_layout.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\timeout_pref_layout.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\screen_light.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\screen_light.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\theme_icon_picker_item.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\theme_icon_picker_item.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\folder_config.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\folder_config.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\widget_config_activity_common.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\widget_config_activity_common.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\permission_prompt.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\permission_prompt.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\brightness_slider_preset_btn.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\brightness_slider_preset_btn.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\theme_item_preview.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\theme_item_preview.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\qs_activate.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\qs_activate.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\theme_icon_picker.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\theme_icon_picker.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\notify_switch.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\notify_switch.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\aw_indicator.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\aw_indicator.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\brightness_slider.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\brightness_slider.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\cfg_icon_theme_editor.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\cfg_icon_theme_editor.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\cfg_config_guide.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\cfg_config_guide.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_multi_choice.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\list_item_multi_choice.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\folder_popup.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\folder_popup.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\cfg_strectch_editor.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\cfg_strectch_editor.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\layout\\volume_sider_item.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\layout\\volume_sider_item.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\anim\\left_slide_in.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\anim\\left_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\anim\\left_slide_out.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\anim\\left_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\anim\\right_slide_out.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\anim\\right_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\anim\\right_slide_in.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\anim\\right_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\anim\\menu_open.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\anim\\menu_open.xml"
+    },
+    {
+        "merged": "C:\\Development\\GitHub\\littlescar\\build\\intermediates\\res\\merged\\debug\\anim\\menu_close.xml",
+        "source": "C:\\Development\\GitHub\\littlescar\\res\\anim\\menu_close.xml"
+    }
+]
